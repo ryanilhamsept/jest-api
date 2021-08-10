@@ -1,0 +1,24 @@
+{
+  "name": "jest-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "jest": "^24.9.0",
+    "jest-html-reporters": "^1.2.1",
+    "jest-stare": "^1.26.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "randomstring": "^1.1.5",
+    "supertest": "^4.0.2"
+  }
+}
