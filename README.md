@@ -26,6 +26,8 @@ $ npm install
 ```sh
 $ npm test
 ```
+**6.** Run Mocha API single test:
+```sh
 $ npm test --t "api_get_zoo.test.js"
+```
 
-$ npm test
