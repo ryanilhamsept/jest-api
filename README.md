@@ -26,3 +26,6 @@ $ npm install
 ```sh
 $ npm test
 ```
+$ npm test --t "api_get_zoo.test.js"
+
+$ npm test
